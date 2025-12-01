@@ -260,7 +260,7 @@ body {
   gap: var(--spacing-400);
 }
 
-.heading-turnary {
+.heading-tertiary {
   color: var(--white);
   font-size: var(--tp-2-size);
   font-weight: var(--tp-2-weight);
@@ -375,7 +375,7 @@ body {
     gap: 2rem;
   }
 
-  .heading-turnary {
+  .heading-tertiary {
     font-size: 3.6rem;
   }
 
@@ -433,7 +433,7 @@ body {
       url("images/mobile/image-footer.jpg") center/cover no-repeat;
   }
 
-  .heading-turnary {
+  .heading-tertiary {
     font-size: 3.2rem;
   }
 
