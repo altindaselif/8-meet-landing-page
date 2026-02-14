@@ -10,8 +10,8 @@ This is a Meet Landing Page that you can use on your websites.
 
 ## Links
 
-- **GitHub Repository:** [View Code](https://github.com/altindaselif/meet-landing-page)
-- **Live Demo:** [View Live Site](https://altindaselif.github.io/meet-landing-page/)
+- **GitHub Repository:** [View Code](https://github.com/altindaselif/8-meet-landing-page)
+- **Live Demo:** [View Live Site](https://altindaselif.github.io/8-meet-landing-page/)
 
 ## Built With
 
